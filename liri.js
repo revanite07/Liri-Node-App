@@ -50,7 +50,7 @@ function determineSearch(searchCommand, search){
   request(movieQueryUrl, function (error, response, body) {
 
     if (response.statusCode === 200 && !error) {
-      console.log(JSON.parse(body));
+      
       console.log("Title " + JSON.parse(body).Title);
       console.log("Year: " + JSON.parse(body).Year);
       console.log("IMDB Rating: " + JSON.parse(body).imdbRating);

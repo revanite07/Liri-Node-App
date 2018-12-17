@@ -62,3 +62,12 @@ USA
 English
 Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
 Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+Appending movie information: 
+The Lord of the Rings: The Fellowship of the Ring
+2001
+8.8
+undefined
+New Zealand, USA
+English, Sindarin
+A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Alan Howard, Noel Appleby, Sean Astin, Sala Baker
