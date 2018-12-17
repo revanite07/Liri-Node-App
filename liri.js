@@ -46,8 +46,7 @@ function determineSearch(searchCommand, search){
 
     
   var movieQueryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
-  // tried multiple ways to get movie titles with more than one word to work but the for loop example to put the argument with a + after each 
-  // word puts a + after each letter instead
+  
   request(movieQueryUrl, function (error, response, body) {
 
     if (response.statusCode === 200 && !error) {
