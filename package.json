@@ -1,0 +1,29 @@
+{
+  "name": "liri-node-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revanite07/liri-node-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revanite07/liri-node-map/issues"
+  },
+  "homepage": "https://github.com/revanite07/liri-node-map#readme",
+  "dependencies": {
+    "bandsintown": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.1",
+    "moment": "^2.23.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
+}

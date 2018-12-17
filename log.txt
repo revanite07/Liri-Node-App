@@ -1,0 +1,55 @@
+
+Appending movie information: 
+Predator
+1987
+7.8
+undefined
+USA, Mexico
+English, Spanish, Russian
+A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.
+Arnold Schwarzenegger, Carl Weathers, Elpidia Carrillo, Bill Duke
+Appending movie information: 
+Speed
+1994
+7.2
+undefined
+USA
+English
+A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.
+Keanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton
+Appending movie information: 
+The Avengers
+2012
+8.1
+undefined
+USA
+English, Russian, Hindi
+Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Appending movie information: 
+Kick-Ass
+2010
+7.6
+undefined
+UK, USA
+English
+Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.
+Aaron Taylor-Johnson, Garrett M. Brown, Evan Peters, Deborah Twiss
+Appending movie information: 
+Zombieland
+2009
+7.7
+undefined
+USA
+English
+A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America.
+Jesse Eisenberg, Woody Harrelson, Emma Stone, Abigail Breslin
+Appending movie information: 
+Divergent
+2014
+6.7
+undefined
+USA
+English, Spanish
+In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.
+Shailene Woodley, Theo James, Ashley Judd, Jai Courtney
