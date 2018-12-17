@@ -12,7 +12,7 @@ determineSearch(searchCommand, search);
 
 function determineSearch(searchCommand, search){
 
-  search = getSearchData();
+  search = process.argv.slice(3).join(" ");
 
   switch (searchCommand) {
     case "movie-this":
@@ -41,17 +41,8 @@ function determineSearch(searchCommand, search){
     }
   }
 
-  function getSearchData(){
-    searchArray = process.argv;
-
-    for (var i = 3; i < searchArray.length; i++){
-      search += searchArray[i];
-    }
-    return search;
-  }
   
-  
-  function movieSearch(movieName) {
+ function movieSearch(movieName) {
 
     
   var movieQueryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
